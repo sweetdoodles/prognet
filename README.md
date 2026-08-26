@@ -1,5 +1,4 @@
 # Laporan Take-Home Assignment — Student Hub & Code Defense
-**Pemrograman Internet (26STIE05X020) — Pertemuan 2**
 
 **Nama :** Ida Ayu Putu Audrey Tara Cahyarani
 **NIM :** 2505551128
@@ -9,7 +8,6 @@
 ---
 
 ## 1. Langkah-Langkah (Step-by-Step)
-
 Berikut runtutan perintah terminal dari awal setup proyek hingga menjalankan `npm run dev`:
 
 ```bash
@@ -76,7 +74,7 @@ React dan Tailwind CSS. Sertakan:
    Academic Assistant (Artificial Intelligence, React, API), masing-masing dengan
    deskripsi singkat dan badge teknologi.
 
-PENTING: Tulis seluruh kodenya langsung di file src/App.jsx saja (Single-File
+NOTE: Tulis seluruh kodenya langsung di file src/App.jsx saja (Single-File
 Component) menggunakan tag HTML5 semantik (header, nav, main, section, footer).
 JANGAN membuat file/folder baru di luar file ini!
 ```
@@ -114,9 +112,7 @@ src/App.jsx (logika State + tampilan JSX yang muncul di browser)
 
 ---
 
-## 4. Bedah & HTML5 Semantik pada `App.jsx`
-
-Meskipun kode ini dihasilkan dengan bantuan AI, struktur `return JSX` tetap disusun menggunakan tag HTML5 bermakna, bukan sekadar tumpukan `<div>` ("Div Soup"). Berikut alasan pemilihan tiap tag semantik:
+## 4. Analisis & HTML5 Semantik pada `App.jsx`
 
 | Tag | Digunakan untuk | Alasan Pemilihan |
 |---|---|---|
